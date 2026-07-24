@@ -1,0 +1,4 @@
+cd D:\hospital-apps-script
+clasp clone"1P6bZwzdU7ncqf2fINgrMLo2zIFDu-T-xPVk_nox5S9QuVCmUienEqgXk"
+
+ AKfycbwWvnA1VOdYhXmZBKtTCPSZ85cWM9Yz2MhNNOZzJbd0PGMAE3dlyVQl4hP1OdaNOmlh 
